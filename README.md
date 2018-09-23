@@ -1,6 +1,6 @@
 # SpotifyVotingApp
 
-![alt text](https://cdn2.iconfinder.com/data/icons/the-circle-icons/512/Spotify.png "Spotify logo")
+![alt text](https://cdn2.iconfinder.com/data/icons/the-circle-icons/512/Spotify.png =100x100 "Spotify logo")
 
 this is an app for the MCHS leavers prom of 2019.
 
