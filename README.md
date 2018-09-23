@@ -1,6 +1,7 @@
 # SpotifyVotingApp
 
 <img src ="https://cdn2.iconfinder.com/data/icons/the-circle-icons/512/Spotify.png" width="100" height="100"></img>
+![](https://pbs.twimg.com/profile_images/551758013/logoExp_400x400.jpg)
 
 this is an app for the MCHS leavers prom of 2019.
 
